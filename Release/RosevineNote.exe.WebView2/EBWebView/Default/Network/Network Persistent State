@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"anonymization":["HAAAABUAAABodHRwczovL251bGx2dWlsZC5jb20AAAA=",false],"server":"https://cdn.jsdelivr.net","supports_spdy":true},{"anonymization":["HAAAABUAAABodHRwczovL251bGx2dWlsZC5jb20AAAA=",false],"server":"https://www.nullvuild.com","supports_spdy":true}],"version":5},"network_qualities":{"CAESABiAgICA+P////8B":"4G"}}}
